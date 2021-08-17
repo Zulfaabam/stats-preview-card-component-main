@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/html-and-sass-LgTgHadiY)
-- Live Site URL: [Add live site URL here](https://zulfaabam.github.io/stats-preview-card-component-main/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/html-and-sass-LgTgHadiY)
+- Live Site URL: [Live site](https://zulfaabam.github.io/stats-preview-card-component-main/)
 
 ## My process
 
